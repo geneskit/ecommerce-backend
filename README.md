@@ -18,6 +18,8 @@ GIVEN a functional Express.js API
 - THEN I am able to successfully create, update, and delete data in my database
 
 ## Installation
+Please run the following commands in your terminal before running the application.
+
 ```
 npm init -y
 npm install 
